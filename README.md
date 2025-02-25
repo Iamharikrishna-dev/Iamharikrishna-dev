@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Harikrishna! 👋  
+🚀 MERN Stack Developer | 💡 Tech Enthusiast | 🎨 Digital Art Lover  
 
-<!--
-**Iamharikrishna-dev/Iamharikrishna-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- **Frontend:** React, Vue js  
+- **Backend:** Node.js, Express.js, MongoDB, Python, Java  
+- **Tools:** Git
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+🔹 **[LingoSound](https://github.com/Iamharikrishna-dev/LingoSound) Project(https://lingosound.vercel.app/)** – AI-powered TTS app  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **[Blogiverse](https://github.com/Iamharikrishna-dev/Mernblog) Project(https://blogiverse-app.vercel.app/)** –  A modern and interactive blogging platform
+
+🔹 **[Storyteller](https://github.com/Iamharikrishna-dev/Storyteller) Project(https://thestorytellerapp.vercel.app/)** – Storyteller with gemini and pexels api 
+  
+## 📊 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=Iamharikrishna-dev&theme=dark&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamharikrishna-dev&layout=compact&theme=dark)  
+
+## 🤝 Let's Connect!  
+💬 Ask me about Web Dev, AI, Space Tech  
+📫 **Find me on:** [Portfolio](https://yourwebsite.com)

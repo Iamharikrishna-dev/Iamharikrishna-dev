@@ -358,7 +358,7 @@ npm run report:allure            # Allure report
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ### 📧 Direct Contact
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
+**Email:** [harikrishnandotm@gmail.com](mailto:harikrishnandotm@gmail.com)  
 **Location:** 📍 Chennai, Tamil Nadu, India
 
 </div>

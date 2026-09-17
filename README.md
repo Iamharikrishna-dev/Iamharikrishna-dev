@@ -167,7 +167,7 @@ I'm a passionate **Full-Stack Developer** with **5+ years of QA Automation** exp
 
 [Learn More →](https://playwright.dev)
 
-    </td>
+   </td>
     <td align="center" width="50%">
       
 #### 🌐 Selenium WebDriver
@@ -184,8 +184,8 @@ I'm a passionate **Full-Stack Developer** with **5+ years of QA Automation** exp
 
 [Learn More →](https://www.selenium.dev)
 
-    </td>
-  </tr>
+  </td>
+</tr>
 </table>
 
 ### 🎯 Automation Testing Flow
